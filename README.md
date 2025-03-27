@@ -22,3 +22,7 @@ Expect occasional commits, strange code, and bursts of clarity.
 ## License
 
 MIT — because I believe in sharing and learning.
+
+## Linked Documents
+
+* [Roadmap](notes/roadmap.md)

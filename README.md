@@ -26,3 +26,4 @@ MIT — because I believe in sharing and learning.
 ## Linked Documents
 
 * [Roadmap](notes/roadmap.md)
+* [CAN Bus Basics](notes/can-basics.md)
